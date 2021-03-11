@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/tactilenews/threema.git
-  revision: 6930788de13c329343d0286585968490dbbe7e24
-  branch: master
+  remote: https://github.com/thorsteneckel/threema.git
+  revision: c93b59136cf31728985dcd3523d533da40a25f79
+  branch: ruby_3_0_0
   specs:
     threema (0.1.0)
       case_transform
@@ -395,7 +395,7 @@ DEPENDENCIES
   webpacker (~> 5)
 
 RUBY VERSION
-   ruby 2.7.1p83
+   ruby 3.0.0p0
 
 BUNDLED WITH
-   2.1.4
+   2.2.9
